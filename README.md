@@ -1,6 +1,6 @@
-# DropBeat
+# Dropbeat
 
-## [Live Demo](https://mahmoud-abuyoussef.github.io/Drop_Beat/)
+## [Live Demo](https://mahmoud-abuyoussef.github.io/Dropbeat/)
 
 ## Tech Stack
 
@@ -18,10 +18,14 @@
 
 - ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 
+## Design
+
+![Dropbeat Design](https://github.com/mahmoud-abuyoussef/Dropbeat/blob/main/design/Dropbeat.png)
+
 ## Project Structure
 
 ```
-3-Drop_Beat
+3-Dropbeat
 ├─ assets
 │  ├─ images
 │  │  ├─ dancer-bg.webp
@@ -41,13 +45,13 @@
 ## How to Use
 
 ```bash
-git clone git@github.com:mahmoud-abuyoussef/Drop_Beat.git
+git clone git@github.com:mahmoud-abuyoussef/Dropbeat.git
 ```
 
 or
 
 ```bash
-git clone https://github.com/mahmoud-abuyoussef/Drop_Beat.git
+git clone https://github.com/mahmoud-abuyoussef/Dropbeat.git
 ```
 
 ---
